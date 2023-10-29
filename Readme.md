@@ -1,5 +1,5 @@
 # Hamming Code
-**Simple program to correct's single mistake in the coded message using Hamming code algorithm**
+**Simple program to correct single mistake in the coded message using Hamming code algorithm**
 
 # How to use?
 
@@ -16,7 +16,7 @@ auto-translation any message with any symbols to bit code
 litle app with interface
 
 
-# More iformation about the project
+# More information about the project
 
 >**(rus): https://habr.com/ru/articles/140611/**
 

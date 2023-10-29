@@ -3,7 +3,7 @@
 
 # How to use?
 
-***this program is just a one class, that takes as an input only bit-code message with the checker bits. Also class has some usefull features, that can help you getting more information about the message.***
+**this program is just a one class, that takes as an input only bit-code message with the checker bits. Also class has some usefull features, that can help you getting more information about the message.**
 
 # Plans for the updates
 >1

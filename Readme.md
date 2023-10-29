@@ -7,7 +7,7 @@
 
 # Plans for the updates
 >1
-make the program work with all types of bit-code messages
+make the program work with all types of bit-coded messages
 
 > 2
 auto-translation any message with any symbols to bit code

@@ -5,16 +5,6 @@
 
 **this program is just a one class, that takes as an input only bit-code message with the checker bits. Also class has some usefull features, that can help you getting more information about the message.**
 
-# Plans for the updates
->1
-make the program work with all types of bit-coded messages
-
-> 2
-auto-translation any message with any symbols to bit code
-
-> 3
-litle app with interface
-
 
 # More information about the project
 

@@ -1,5 +1,5 @@
 # Hamming Code
-**Simple program to correct single mistake in the coded message using Hamming code algorithm**
+**Simple program to correct single mistake in the coded message using Hamming code algorithm(4,3)(11,4)**
 
 # How to use?
 
